@@ -18,4 +18,4 @@ which can help you to sharpen your mongodb skills.
 - Get posts sorted by no of likes
 - Don't fetch description of each post
 - Implement search by text in the database
-- Fetch first two, then next two, then the last one.
+- Fetch first two, then next two, then the last post.
