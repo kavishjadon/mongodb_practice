@@ -3,14 +3,9 @@
 This repo contains contains some dummy data with some questions<br/>
 which can help you to sharpen your mongodb skills.
 
-## Setup the project
-
-- Install mongodb and mongoose
-- Create Schema file
-
 ## Do the following tasks
 
-- Import 'data.json' into your database
+- Import 'data.json' into your mongoDB database
 - Correct field name from "tilte" to "title"
 - Round likes values where it is decimal
 - Delete duplicate values & null in tags
