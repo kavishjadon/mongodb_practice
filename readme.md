@@ -1,7 +1,6 @@
-# MonogDB Practice
+# MongoDB Practice
 
-This repo contains contains some dummy data with some questions<br/>
-which can help you to sharpen your mongodb skills.
+This repo contains contains some dummy data with some questions which can help you to sharpen your mongodb skills.
 
 ## Do the following tasks
 
