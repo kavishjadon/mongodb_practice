@@ -14,7 +14,6 @@ This repo contains contains some dummy data with some questions which can help y
 - Get posts sorted by number of likes
 - Don't fetch description of each post
 - Find total posts & avg num of likes in each category
-- Get posts sorted by no of likes
 - Don't fetch description of each post
 - Implement search by text in the database
 - Fetch first two, then next two, then the last post.
